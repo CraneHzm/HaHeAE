@@ -40,13 +40,19 @@ Step 3:  Set 'data_dir' in 'config.py' and 'main.py' for the processed datasets.
 	author={Hu, Zhiming and Zhang, Guanhua and Yin, Zheming and Haeufle, Daniel and Schmitt, Syn and Bulling, Andreas},
 	journal={IEEE Transactions on Visualization and Computer Graphics}, 
 	title={HaHeAE: Learning Generalisable Joint Representations of Human Hand and Head Movements in Extended Reality}, 
-	year={2025}}
-	
+	year={2025},
+	pages = {1--12},
+	doi={10.1109/TVCG.2025.3576999}}
+
 @article{hu24pose2gaze,
 	author={Hu, Zhiming and Xu, Jiahui and Schmitt, Syn and Bulling, Andreas},
 	journal={IEEE Transactions on Visualization and Computer Graphics}, 
 	title={Pose2Gaze: Eye-body Coordination during Daily Activities for Gaze Prediction from Full-body Poses}, 
-	year={2024}}
+	year={2025},
+	volume={31},
+	number={9},
+	pages={4655--4666},
+	doi={10.1109/TVCG.2024.3412190}}	
 ```
 
 
